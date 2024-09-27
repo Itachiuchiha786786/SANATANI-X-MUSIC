@@ -5,10 +5,10 @@ from pyrogram import Client
 from pyrogram.types import Message
 from pyrogram.enums import ChatMemberStatus, ChatType
 
-from SANATANI-X-MUSIC import app
+from SACHINxSANATANIxMUSIC import app
 
 from config import OWNER_ID, BOT_USERNAME
-from SANATANI-X-MUSIC.misc import SUDOERS
+from SACHINxSANATANIxMUSIC.misc import SUDOERS
 
 COMMANDERS = [ChatMemberStatus.ADMINISTRATOR, ChatMemberStatus.OWNER]
 
