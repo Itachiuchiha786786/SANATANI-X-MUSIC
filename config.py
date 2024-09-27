@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002142625575))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002104939708))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5959548791))
+OWNER_ID = int(getenv("OWNER_ID", 6402009857))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/SACHINxSANATANI/SANATANI-X-MUSIC",
+    "https://github.com/Itachiuchiha786786/SANATANI-X-MUSIC",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -67,8 +67,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/All_sanatani_bot")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/MK_CHATTING_GRP")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/mitsuri_update")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/dynamic_gangs")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
